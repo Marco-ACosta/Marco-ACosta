@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Marco Antônio, sou desenvolvedor Backend, com enfase em <strong>C#</strong>,
-  Atualmente trabalho como desenvolvedor em <strong>ABO</strong>.
+  Meu nome é Marco Antônio, sou desenvolvedor Backend, com enfase em <strong>Javascript#</strong>,
+  Atualmente trabalho como desenvolvedor em <strong>Instabov</strong>.
 </p>
 
 <p align="left">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio, Visual Studio Code, Jira, Bit bUCKET.</strong>
+  💼 Ferramentas: <strong>Visual Studio, Visual Studio Code, Jira, Bit Bucket.</strong>
 </p>
 
 <p align="left">
